@@ -1,0 +1,6 @@
+Employees aged 26–35 years have the highest attrition (116 employees, ~49%), indicating mid-career professionals are at greater risk of leaving.
+Employees with Life Sciences (38%) and Medical (27%) education backgrounds show the highest attrition rates among all educational groups.
+Male attrition (143) is significantly higher than female attrition (80), making up 60%+ of total exits.
+The company has 1,470 employees, with 237 attritions, resulting in an attrition rate of 16.1%.
+Laboratory Technicians (62) and Sales Executives (57) are the top two job roles facing the most attrition, together accounting for ~50% of total attrition.
+The highest attrition occurs among employees with only 1 year at the company (59 exits), suggesting onboarding, early engagement, or role alignment may need improvement.
